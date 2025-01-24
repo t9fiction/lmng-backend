@@ -12,3 +12,33 @@ docs/
 
 # Dotenv file
 .env
+# Node modules
+node_modules/
+
+# Build artifacts
+out/
+*.out
+
+# Cache files
+.cache/
+
+
+# Environment files
+.env
+.env.local
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# VSCode settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Linux system files
+*~
