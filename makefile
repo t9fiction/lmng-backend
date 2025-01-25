@@ -6,7 +6,7 @@ PROJECT_NAME=LMNGToken
 # Define the paths
 FORGE=forge
 FORGE_FLAGS=--optimize --optimizer-runs=200
-PRIVATE_KEY_ANVIL=0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80
+
 
 .PHONY: all test clean deploy-anvil deploy-sepolia deploy-arbitrum verify verify-arbitrum help
 
