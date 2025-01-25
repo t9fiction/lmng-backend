@@ -22,6 +22,7 @@ out/
 # Cache files
 .cache/
 
+broadcast/
 
 # Environment files
 .env
